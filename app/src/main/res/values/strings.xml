@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent MSG</string>
+    <string name="textview">Welcome %s</string>
+    <string name="button">Go Back</string>
+    <string name="button_taker">Goo!!!</string>
+    <string name="name">Take it with 2nd activity</string>
+</resources>
